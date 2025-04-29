@@ -1,0 +1,11 @@
+{
+  "appName": "bonjour-monde",
+  "userGivenName": "bonjour-monde",
+  "destNamespace": "default",
+  "destServer": "https://kubernetes.default.svc",
+  "srcPath": "apps/bonjour-monde/overlays/qa",
+  "srcRepoURL": "https://github.com/Mathod95/argocd-autopilot.git",
+  "srcTargetRevision": "",
+  "labels": null,
+  "annotations": null
+}
